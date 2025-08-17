@@ -1,4 +1,4 @@
-# 📚 Mentor di Logica - Domande e Risposte
+# 📚 Mentor di Logica (CISIA) - Domande e Risposte
 
 *Una raccolta organizzata di quesiti di logica con risposte corrette*
 
